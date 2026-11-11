@@ -1,0 +1,5 @@
+﻿data/raw/*.csv
+data/raw/*.zip
+**/cache.abf
+**/.pbi/localSettings.json
+**/.pbi/unappliedChanges.json
