@@ -1,0 +1,8 @@
+# Ham veri setini GitHub'a yükleme (Kaggle'dan indirilir)
+data/raw/*.csv
+data/raw/*.zip
+
+# Power BI yerel önbellek ve kullanıcı ayar dosyaları (.pbip için standart)
+**/cache.abf
+**/.pbi/localSettings.json
+**/.pbi/unappliedChanges.json
